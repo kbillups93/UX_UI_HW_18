@@ -8,7 +8,7 @@
 }
 
 .nav{display: flex;
-background-color: black;
+background-color: purple;
 padding: 20px;
 }
 
@@ -31,14 +31,14 @@ text-decoration: none;
 font-family: arial;
 }
 
-.right button{background-color: yellow;
+.right button{background-color: hotpink;
     color: black;
 font-size: 16px;
 padding: 15px;
 width: 50%;
 }
 
-.left button{background-color: skyblue;
+.left button{background-color: lightpink;
     color: black;
 font-size: 16px;
 padding: 15px;
@@ -63,16 +63,16 @@ background-position: center;
 }
 
 .meal1{margin-top: 20px;
-background-image: url("../images/steak.png");
+background-image: url("../images/waffle-recipe-square.jpeg");
 }
 
-.meal2{background-image: url("../images/soup.png");
+.meal2{background-image: url("../images/file-20191030-154716-1wc4d64.avif");
 }
 
-.meal3{background-image: url("../images/cheesecake.png");
+.meal3{background-image: url("../images/Piña-Colada-Culinary-Hill-1200x800-1.webp");
 }
 
-.text{background: rgb(0,0,0,0.7);
+.text{
 width: 100%;
 padding: 20px 40px;
 color: white;
@@ -82,12 +82,12 @@ color: white;
 font-family: arial, helvetica, sans-serif;
 }
 
-.text h1{font-family: georgia, 'times new roman', times, serif;
+.text h1{font-family: 'Press Start 2P', cursive;
 }
 
 /* Footer Styles */
 .footer{display: flex;
-    background-color: black;
+    background-color: purple;
     padding: 20px;
     justify-content: center;
 }
